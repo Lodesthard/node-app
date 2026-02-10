@@ -11,6 +11,16 @@
   "description": "",
   "dependencies": {
     "docker": "^0.2.14",
-    "express": "^5.2.1"
-  }
+    "express": "^5.2.1",
+    "redis": "^5.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lodesthard/node-app.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lodesthard/node-app/issues"
+  },
+  "homepage": "https://github.com/Lodesthard/node-app#readme"
 }
